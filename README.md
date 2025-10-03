@@ -1,5 +1,4 @@
-<h1>CodExpress — Nivel Intermedio (Estructuras de Datos + POO)</h1>
-<p><strong>Tiempo total:</strong> 3 horas · <strong>Objetivo:</strong> completar <u>7 u 8 mini-retos</u> y, si alcanzas, una <u>app integrada (código 2900)</u> que reutilice tus propias <strong><h1>CodExpress — Nivel Intermedio PRO (Estructuras + POO)</h1>
+<h1>CodExpress — Nivel Intermedio PRO (Estructuras + POO)</h1>
 <p><strong>Tiempo:</strong> 3 horas · <strong>Meta:</strong> completar <u>7 u 8 mini-retos</u> y, si te alcanza, una <u>app integrada (código 2900)</u> que reutilice tus propias <strong>clases y funciones</strong>. Lenguajes: <strong>Python</strong>, <strong>Java</strong> o <strong>C++</strong> (usando POO).</p>
 
 <h2>Flujo de trabajo (fork &amp; PR)</h2>
