@@ -67,7 +67,7 @@
 
 <hr />
 
-<h2>Puntajes — Intermedio PRO</h2>
+<h2>Puntajes — Nivel Intermedio </h2>
 <ul>
   <li><strong>Mini-reto (máx. 90 pts)</strong>: funciona (60%) · casos borde / 3 pruebas (20%) · diseño POO/claridad (10%) · defensa breve (10%).</li>
   <li><strong>App 2900 (máx. 180 pts)</strong>: integración (50%) · cohesión/reuso (20%) · manejo de errores (20%) · README (10%).</li>
